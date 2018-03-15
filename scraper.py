@@ -84,7 +84,7 @@ def convert_mth_strings ( mth_string ):
 #### VARIABLES 1.0
 
 entity_id = "NFTRKB_UHCWNFT_gov"
-url = "http://www.uhcw.nhs.uk/about-us/financial-transparency"
+url = "https://www.uhcw.nhs.uk/our-organisation/financial-transparency/"
 errors = 0
 data = []
 
